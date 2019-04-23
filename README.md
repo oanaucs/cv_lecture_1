@@ -1,1 +1,1 @@
-# rs1
+# Computer Vision Lecture exercises
